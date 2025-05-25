@@ -1,4 +1,4 @@
-## Risorse Utilizzate
+## Risorse
 
 ### 🌐 Website
 - [Bootstrap](https://getbootstrap.com/)

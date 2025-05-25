@@ -7,6 +7,7 @@
 ### 🤖 AI
 - [Replit](https://replit.com/)
 - [ElevenLabs](https://www.elevenlabs.io/)
+- [ChatGpt](https://chatgpt.com/)
 
 ### 📱 App
 - [Audacity](https://www.audacityteam.org/)

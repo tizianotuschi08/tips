@@ -4,6 +4,7 @@
 - [Bootstrap](https://getbootstrap.com/)
 - [W3Schools](https://www.w3schools.com/)
 - [WebAssembly](https://webassembly.org)
+- [Emscripten](https://emscripten.org/docs/getting_started/downloads.html)
 
 ### 🤖 AI
 - [Replit](https://replit.com/)

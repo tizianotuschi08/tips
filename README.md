@@ -5,6 +5,7 @@
 - [W3Schools](https://www.w3schools.com/)
 - [WebAssembly](https://webassembly.org)
 - [Emscripten](https://emscripten.org/docs/getting_started/downloads.html)
+- [LTXVideo](https://www.lightricks.com)
 
 ### 🤖 AI
 - [Replit](https://replit.com/)
